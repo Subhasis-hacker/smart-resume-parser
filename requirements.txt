@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+xgboost
+catboost
+uvicorn
+scikit-learn
+fastapi
+nltk
+gensim
